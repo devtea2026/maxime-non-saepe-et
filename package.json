@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/maxime-non-saepe-et",
-  "version": "5.12.77",
+  "version": "6.12.77",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -189,5 +189,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/maxime-non-saepe-et/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
